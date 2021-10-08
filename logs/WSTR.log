@@ -1,0 +1,108 @@
+07/02/21 22:27:20 PM :: Closing serial thread exception
+07/02/21 22:27:20 PM :: Closing program
+07/02/21 22:29:17 PM :: starting program run
+07/02/21 22:29:17 PM :: connecting to /dev/ttyACM1
+07/02/21 22:29:17 PM :: Serial variable created
+07/02/21 22:29:17 PM :: serial thread started
+07/02/21 22:29:18 PM :: msg :init complete
+07/02/21 22:29:19 PM :: lastscan :1011
+07/02/21 23:19:39 PM :: starting program run
+07/02/21 23:19:40 PM :: connecting to /dev/ttyACM0
+07/02/21 23:19:40 PM :: Serial variable created
+07/02/21 23:19:40 PM :: serial thread started
+07/02/21 23:20:08 PM :: Closing serial thread exception
+07/02/21 23:20:08 PM :: Closing program
+07/02/21 23:20:12 PM :: starting program run
+07/02/21 23:20:12 PM :: connecting to /dev/ttyACM0
+07/02/21 23:20:12 PM :: Serial variable created
+07/02/21 23:20:12 PM :: serial thread started
+07/02/21 23:20:50 PM :: Closing serial thread exception
+07/02/21 23:20:50 PM :: Closing program
+07/02/21 23:20:55 PM :: starting program run
+07/02/21 23:20:55 PM :: connecting to /dev/ttyACM0
+07/02/21 23:20:55 PM :: Serial variable created
+07/02/21 23:20:55 PM :: serial thread started
+07/02/21 23:21:28 PM :: Closing serial thread exception
+07/02/21 23:21:28 PM :: Closing program
+07/02/21 23:21:32 PM :: starting program run
+07/02/21 23:21:33 PM :: connecting to /dev/ttyACM0
+07/02/21 23:21:33 PM :: Serial variable created
+07/02/21 23:21:33 PM :: serial thread started
+07/02/21 23:21:42 PM :: Closing serial thread exception
+07/02/21 23:21:42 PM :: Serial data read exception
+07/02/21 23:21:42 PM :: Closing program
+07/02/21 23:21:46 PM :: starting program run
+07/02/21 23:21:47 PM :: connecting to /dev/ttyACM0
+07/02/21 23:21:47 PM :: Serial variable created
+07/02/21 23:21:47 PM :: serial thread started
+07/02/21 23:21:53 PM :: Closing serial thread exception
+07/02/21 23:21:53 PM :: Closing program
+07/02/21 23:22:14 PM :: starting program run
+07/02/21 23:22:14 PM :: connecting to /dev/ttyACM0
+07/02/21 23:22:14 PM :: Serial variable created
+07/02/21 23:22:14 PM :: serial thread started
+07/02/21 23:22:28 PM :: Closing serial thread exception
+07/02/21 23:22:28 PM :: Closing program
+07/02/21 23:22:32 PM :: starting program run
+07/02/21 23:22:33 PM :: connecting to /dev/ttyACM0
+07/02/21 23:22:33 PM :: Serial variable created
+07/02/21 23:22:33 PM :: serial thread started
+07/02/21 23:22:46 PM :: Closing serial thread exception
+07/02/21 23:22:46 PM :: Closing program
+07/02/21 23:22:49 PM :: starting program run
+07/02/21 23:22:50 PM :: connecting to /dev/ttyACM0
+07/02/21 23:22:50 PM :: Serial variable created
+07/02/21 23:22:50 PM :: serial thread started
+07/02/21 23:23:37 PM :: Closing serial thread exception
+07/02/21 23:23:37 PM :: Serial data read exception
+07/02/21 23:23:37 PM :: Closing program
+07/02/21 23:23:41 PM :: starting program run
+07/02/21 23:23:41 PM :: connecting to /dev/ttyACM0
+07/02/21 23:23:41 PM :: Serial variable created
+07/02/21 23:23:41 PM :: serial thread started
+07/02/21 23:23:54 PM :: Closing serial thread exception
+07/02/21 23:23:54 PM :: Closing program
+07/02/21 23:24:02 PM :: starting program run
+07/02/21 23:24:03 PM :: connecting to /dev/ttyACM0
+07/02/21 23:24:03 PM :: Serial variable created
+07/02/21 23:24:03 PM :: serial thread started
+07/02/21 23:24:36 PM :: Closing serial thread exception
+07/02/21 23:24:36 PM :: Serial data read exception
+07/02/21 23:24:36 PM :: Closing program
+07/02/21 23:24:46 PM :: starting program run
+07/02/21 23:24:46 PM :: connecting to /dev/ttyACM0
+07/02/21 23:24:46 PM :: Serial variable created
+07/02/21 23:24:46 PM :: serial thread started
+07/02/21 23:24:52 PM :: Closing serial thread exception
+07/02/21 23:24:52 PM :: Serial data read exception
+07/02/21 23:24:52 PM :: Closing program
+07/02/21 23:25:48 PM :: starting program run
+07/02/21 23:25:49 PM :: connecting to /dev/ttyACM0
+07/02/21 23:25:49 PM :: Serial variable created
+07/02/21 23:25:49 PM :: serial thread started
+07/02/21 23:26:07 PM :: Closing serial thread exception
+07/02/21 23:26:07 PM :: Closing program
+07/02/21 23:26:11 PM :: starting program run
+07/02/21 23:26:11 PM :: connecting to /dev/ttyACM0
+07/02/21 23:26:11 PM :: Serial variable created
+07/02/21 23:26:11 PM :: serial thread started
+07/02/21 23:27:15 PM :: Closing serial thread exception
+07/02/21 23:27:15 PM :: Closing program
+07/02/21 23:27:23 PM :: starting program run
+07/02/21 23:27:23 PM :: connecting to /dev/ttyACM0
+07/02/21 23:27:23 PM :: Serial variable created
+07/02/21 23:27:23 PM :: serial thread started
+07/02/21 23:27:35 PM :: Closing serial thread exception
+07/02/21 23:27:35 PM :: Closing program
+07/02/21 23:28:07 PM :: starting program run
+07/02/21 23:28:08 PM :: connecting to /dev/ttyACM0
+07/02/21 23:28:08 PM :: Serial variable created
+07/02/21 23:28:08 PM :: serial thread started
+07/02/21 23:40:05 PM :: Closing serial thread exception
+07/02/21 23:40:05 PM :: Closing program
+07/02/21 23:40:09 PM :: starting program run
+07/02/21 23:40:10 PM :: connecting to /dev/ttyACM0
+07/02/21 23:40:10 PM :: Serial variable created
+07/02/21 23:40:10 PM :: serial thread started
+07/02/21 23:40:26 PM :: Closing serial thread exception
+07/02/21 23:40:26 PM :: Closing program
